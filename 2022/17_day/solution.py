@@ -183,3 +183,5 @@ def tetris(num_of_rocks):
 if __name__ == "__main__":
     print(tetris(2022))
     tetris(20022)
+    # num = 1_000_000_000_000
+    # 1031 + height_at_86_5 + ((num) // (342 * 5)) * 2620 = 1_532_163_742_758
